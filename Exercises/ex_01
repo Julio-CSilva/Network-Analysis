@@ -1,1 +1,38 @@
-teste
+1.
+(a) - SUbgraph são parcelas de um gráfico completo, trata-se de uma nova plotagem com alguns nós e arestas de um gráfico completo, 
+quase como se fosse um Zoom-in de um gráfico.
+
+(b) - Gráficos bipartidos são gráficos grupos de gráficos separados que seus nós se conectam, similar a relação de conjuntos, 
+de um grupo A que se relacionam com um Grupo B
+
+(C) - Um Gráfico hamiltoniano é tal que um caminho possa ser traçado passando por todas os nós sem que nenhuma passagem se repita, 
+ou seja nenhum só servirá de caminho mais de uma vez.
+
+(D) - Um gráfico euleriano é similar ao gráfico hamiltoniano com a diferença de que desta vez nenhuma aresta possa se repetir, 
+ou seja um caminho passando por cada aresta uma unica vez, no gráfico euleriano o caminho deve se iniciar de um ponto e terminar no mesmo.
+
+2.
+O algoritmo de busca em largura tem como base realizar buscas de todos os valores por nível, ou seja começando pelo nó raiz e 
+explorando todos os seus vizinhos.
+
+3.
+para um grafo completo de n vértices temos:(n*n(-1))/2 
+já em um grafo direcionado com n vértices, cada vértice pode se conectar a n-1 outros vértices, portanto terá: n(n - 1)
+
+4.
+grafos isomórficos são grafos nas quais todos os nós tems o mesmo grau e correspondentes um a um entre seus vertices.
+1 - 2
+|   |
+4 - 3
+
+5.    
+Calcule o grau dos nós para ambos os tipos de nós na matriz de adjacência bipartida da figura abaixo. Encontre o(s) nó(s) isolado(s).
+0,0,1,0,0,0,0,0,1,
+0,0,0,0,0,1,1,1,0,
+0,0,0,1,1,1,1,0,0,
+0,0,0,0,0,0,1,0,1,
+1,1,0,0,0,0,0,0,1,
+0,0,1,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,
+0,1,1,0,0,0,0,0,0,
+0,0,0,0,0,0,1,0,0
