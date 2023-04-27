@@ -30,7 +30,7 @@
   </h4>
   
   <h4 align="left">
-      <a href="">🔗 Introduction to Conditional Probability in Python</a>
+      <a href="https://github.com/Julio-CSilva/Network-Analysis/blob/main/Certificate/Dataquest/Júlio-César-da-Silva-Filho--Introduction-to-Conditional-Probability-in-Python.pdf">🔗 Introduction to Conditional Probability in Python</a>
   </h4> 
   
   <h4 align="left">
