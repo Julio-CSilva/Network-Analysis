@@ -34,7 +34,7 @@
   </h4> 
   
   <h4 align="left">
-      <a href="">🔗 Hypothesis Testing in Python</a>
+      <a href="https://github.com/Julio-CSilva/Network-Analysis/blob/main/Certificate/Dataquest/Júlio-César-da-Silva-Filho--Hypothesis-Testing-in-Python.pdf">🔗 Hypothesis Testing in Python</a>
   </h4>
   
 # 🛠 Technologies
