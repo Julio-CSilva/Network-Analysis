@@ -11,7 +11,7 @@
 # Project
 
 ## >> SigmaJS Exporter
-  * [Gephi]([https://github.com/Julio-CSilva/Network-Analysis/tree/main/Certificate/DataCamp/introduction](https://julio-csilva.github.io/Network-Analysis/network/))
+  * [Gephi](https://julio-csilva.github.io/Network-Analysis/network/)
 
 # Lessons
 
