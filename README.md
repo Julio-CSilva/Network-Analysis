@@ -2,11 +2,16 @@
 
 <h1 align ="center">Network Analysis</h1>
 
-<p align="center">Repositório contendo todos os pontos trabalhados, assim como o conhecimento obtido durante a disciplina de "Análise de Redes", ministrada pelo professor: Patrick Terrematte</p>
-
 
 # About
 
+<p align="center">Repository containing all the worked points, as well as the knowledge obtained during the "Network Analysis" discipline, taught by the professor: Patrick Terrematte</p>
+
+
+# Project
+
+## >> SigmaJS Exporter
+  * [Gephi]([https://github.com/Julio-CSilva/Network-Analysis/tree/main/Certificate/DataCamp/introduction](https://julio-csilva.github.io/Network-Analysis/network/))
 
 # Lessons
 
@@ -20,7 +25,7 @@
 ## >> Exercise - 03 (Questionário de estudo dirigido)
   * [Questionário - Colaboratory](https://github.com/Julio-CSilva/Network-Analysis/blob/main/Exercises/Questionário_estudo_dirigido%20.ipynb)
 
-## >> Exercise - 04 (Realização de atividades remotas de dois cursos do Dataquest)
+## >> Exercise - 04 (Dataquest Course)
   <h4 align="left">
       <a href="https://github.com/Julio-CSilva/Network-Analysis/blob/main/Certificate/Dataquest/Júlio-César-da-Silva-Filho--Introduction-to-Git-and-Version-Control.pdf">🔗 Introduction to Git and Version Control</a>
   </h4>
@@ -39,12 +44,13 @@
   
 # 🛠 Technologies
 
-As seguintes ferramentas foram usadas na construção do repositório:
+The following tools were used in building the repository:
 
 - [Git](https://git-scm.com)
 - [Github](https://github.com)
 - [Colaboratory](https://colab.research.google.com)
 - [NetworkX](https://networkx.org)
+- [Gephi](https://gephi.org)
 
 # Author
 
@@ -53,7 +59,7 @@ As seguintes ferramentas foram usadas na construção do repositório:
  <br />
  <sub><b>Julio Silva</b></sub></a> <a href="https://github.com/Julio-CSilva" title="Foguete não tem ré">🚀</a>
 
-Clique para saber mais!
+Click to learn more!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Julio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julio-csilva/)](https://www.linkedin.com/in/júlio-silva-089ba6273/) 
 [![Gmail Badge](https://img.shields.io/badge/-juliocesarfilho0112@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocesarfilho0112@gmail.com)](mailto:juliocesarfilho0112@gmail.com)
