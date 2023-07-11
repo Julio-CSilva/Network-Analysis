@@ -13,6 +13,9 @@
 ## >> SigmaJS Exporter
   * [Gephi](https://julio-csilva.github.io/Network-Analysis/network/)
 
+## >> Colab
+  * [Colaboratory](https://github.com/Julio-CSilva/Network-Analysis/blob/main/Fluxo_de_Analise_Exploratória_v1_2.ipynb)
+
 # Lessons
 
 
